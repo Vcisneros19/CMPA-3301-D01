@@ -24,17 +24,17 @@ I also want the GitHub repository to be organized and easy to understand. Someon
 
 * A public GitHub repository
 
-A professional README.md file
+* A professional README.md file
 
-An index.html homepage
+* A index.html homepage
 
-An about.html page
+* A about.html page
 
-One style.css file used by both pages
+* One style.css file used by both pages
 
-A docs folder containing scope.md, plan.md, and retrospective.md
+* A docs folder containing scope.md, plan.md, and retrospective.md
 
-A working website published through GitHub Pages
+* A working website published through GitHub Pages
 
 ### Project Requirements
 
