@@ -1,8 +1,8 @@
-#Project 03 - Project Scope Statement
+# Project 03 - Project Scope Statement
 
-##Personal Portfolio Website
+## Personal Portfolio Website
 
-###Project Purpose
+### Project Purpose
 
 The purpose of this project is to create a simple personal portfolio website that introduces who I am, my education, skills, and some of the projects I have worked on. I want to create something that can be used for this class but also something that could be useful for me in the future when applying for jobs or internships.
 
